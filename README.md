@@ -1,2 +1,2 @@
 # crab-adventure
-A rust-lang RPG text-based sandbox game
+A {r-word}-lang RPG text-based sandbox game
